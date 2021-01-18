@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'GeometriaMedium';
+    src: url('Geometria-Medium.woff2') format('woff2'),
+        url('Geometria-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GeometriaHeavy';
+    src: url('Geometria-Heavy.woff2') format('woff2'),
+        url('Geometria-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GeometriaBold';
+    src: url('Geometria-Bold.woff2') format('woff2'),
+        url('Geometria-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GeometriaLight';
+    src: url('Geometria-Light.woff2') format('woff2'),
+        url('Geometria-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geometria';
+    src: url('Geometria.woff2') format('woff2'),
+        url('Geometria.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
